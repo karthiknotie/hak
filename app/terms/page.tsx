@@ -96,9 +96,9 @@ export default function TermsPage() {
           <h2 className={h2Class}>Contact Us</h2>
           <p className={pClass}>
             Questions about these Terms? Contact us at{" "}
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=blakashstudio@gmail.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=connect@blakash.com" target="_blank" rel="noopener noreferrer"
               className="text-ash-300 hover:text-ember-400 underline transition-colors duration-300">
-              blakashstudio@gmail.com
+              connect@blakash.com
             </a>.
           </p>
         </div>

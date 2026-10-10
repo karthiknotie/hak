@@ -34,7 +34,7 @@ const factSheet = [
   { label: "Founder", value: "Arun Kumar – Founder & Game Director, BLAKASH Game Studio" },
   { label: "Location", value: "Chennai, India" },
   { label: "Website", value: "blakash.com" },
-  { label: "Contact", value: "blakashstudio@gmail.com" },
+  { label: "Contact", value: "connect@blakash.com" },
 ];
 
 const logos = [
@@ -119,9 +119,9 @@ export default function PressKitPage() {
 
           <p className="text-zinc-500 text-sm leading-7 mt-12">
             For interviews, assets, or other press inquiries, contact us at{" "}
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=blakashstudio@gmail.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=connect@blakash.com" target="_blank" rel="noopener noreferrer"
               className="text-ash-300 hover:text-ember-400 underline transition-colors duration-300">
-              blakashstudio@gmail.com
+              connect@blakash.com
             </a>.
           </p>
         </div>

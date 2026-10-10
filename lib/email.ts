@@ -1,6 +1,6 @@
 import { Resend } from "resend";
 
-const ADMIN_NOTIFICATION_EMAIL = process.env.ADMIN_NOTIFICATION_EMAIL || "blakashstudio@gmail.com";
+const ADMIN_NOTIFICATION_EMAIL = process.env.ADMIN_NOTIFICATION_EMAIL || "connect@blakash.com";
 
 export function isEmailConfigured() {
   return Boolean(process.env.RESEND_API_KEY);

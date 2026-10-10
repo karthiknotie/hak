@@ -338,7 +338,7 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-5">
               {[
-                { label: "Email", href: "https://mail.google.com/mail/?view=cm&fs=1&to=blakashstudio@gmail.com", icon: "fa-solid fa-envelope" },
+                { label: "Email", href: "https://mail.google.com/mail/?view=cm&fs=1&to=connect@blakash.com", icon: "fa-solid fa-envelope" },
                 { label: "Instagram", href: "https://www.instagram.com/blakashstudio/", icon: "fa-brands fa-instagram" },
                 { label: "X", href: "https://x.com/blakashstudio", icon: "fa-brands fa-x-twitter" },
                 { label: "LinkedIn", href: "https://www.linkedin.com/company/blakash/", icon: "fa-brands fa-linkedin-in" },

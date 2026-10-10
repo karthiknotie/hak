@@ -7,7 +7,7 @@ type NavItem = { label: string; id: string } | { label: string; href: string };
 const navItems: NavItem[] = [
   { label: "Studio", id: "about" },
   { label: "Vision", id: "vision" },
-  { label: "Game", id: "featured" },
+  { label: "Games", id: "featured" },
   { label: "Contact", id: "contact" },
   { label: "Careers", href: "/careers" },
 ];

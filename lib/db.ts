@@ -94,7 +94,7 @@ function ensureSchema() {
           preferences JSONB NOT NULL DEFAULT '{}'::jsonb,
           notifications JSONB NOT NULL DEFAULT '{}'::jsonb,
           profile_name TEXT NOT NULL DEFAULT 'Arun Kumar',
-          profile_email TEXT NOT NULL DEFAULT 'blakashstudio@gmail.com',
+          profile_email TEXT NOT NULL DEFAULT 'connect@blakash.com',
           profile_role TEXT NOT NULL DEFAULT 'Founder & Creative Director',
           profile_avatar TEXT NOT NULL DEFAULT '',
           updated_at TIMESTAMPTZ NOT NULL DEFAULT now(),
